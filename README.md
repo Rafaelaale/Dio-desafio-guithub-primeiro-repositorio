@@ -8,7 +8,8 @@ initial escale=1.0>
 
 
                <p>Rafael alexandre oliveira araujo <p>
-<p>estudante do curso de ciencias de dados e proficionao PCD
+<p>estudante do curso de ciencias de dados e proficionao PCD<p>
+
 <
 
 
