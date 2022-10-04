@@ -1,7 +1,6 @@
 <!DOCTYPE html>
-<html lang="pt, br">
-<head>
-<p>curricullo vitae
+<html lang="pt, br"
+<head<p>curricullo vitae
 </p
 >/p
 
